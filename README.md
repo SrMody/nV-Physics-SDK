@@ -1,4 +1,6 @@
 # nV-Physics-SDK
-This Is The First Egyptian-Arabian Physics Engine It Was Programmed By Khayal Interactive Entertainement 
-This Is Just A Beta Because There Isn't Any Public Release For The Engine The File Contain The SDK With 2 Demos Programmed With The SDK 
-I Don't Own The Engine And I Publish This File Because The Company Got Bankrupted In 2009 And The Last Project For The Company Was A Game Named Abo Hadeed(Boha)
+This is the first Egyptian-Arabian physics engine, It was programmed by khayal interactive entertainement, 
+This is just a beta because there isn't any public release for the engine
+The file contain the SDK With 2 Demos Programmed With The SDK 
+I don't own the engine and i published because this file is very rare,And the company got bankrupted in 2009
+And for educationel purposes
