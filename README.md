@@ -1,6 +1,8 @@
 # nV-Physics-SDK
-This is the first Egyptian-Arabian physics engine, It was programmed by khayal interactive entertainement, 
-This is just a beta because there isn't any public release for the engine
-The file contain the SDK With 2 Demos Programmed With The SDK 
-I don't own the engine and i published because this file is very rare,And the company got bankrupted in 2009
-And for educationel purposes
+That's the first Egyptian/Arabian Physics Engine, it was programmed by Khayal IE by Mustafa Ashour and Ahmed El Deeb, and was used in a egyptian game called "Abo7adeed" that was a failure, and the company bankrupted in 2008 or 2009, i guess.
+I think it was mainly programmed in C and Python, and it was published in 2006 as a beta, and it's the only available public release of it, and there isn't any main release copy of it, on the internet atleast, so i guess it's lost to time.
+So i archived it, and i know it would be useless for today's standards, but i loved to save it from time.
+
+Disclaimer : I do not claim owning or programming this piece of software, and i only archived it because it was under public release.
+
+If the original programmers want this page to get down, Contact xmodypc@gmail.com
